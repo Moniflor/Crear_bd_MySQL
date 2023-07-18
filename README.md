@@ -42,6 +42,9 @@ https://github.com/Moniflor/Crear_bd_MySQL/blob/main/im%C3%A1genes/paso%203.png
 
 4. Volvemos a darle a 'Apply'
 
+https://github.com/Moniflor/Crear_bd_MySQL/blob/main/im%C3%A1genes/paso%204.png
+
 5. Le damos a 'Finish'.
 
-   Enhorabuena! Ya has creado tu base de datos con MySQL Workbench!
+
+    Enhorabuena! Ya has creado tu base de datos con MySQL Workbench!
