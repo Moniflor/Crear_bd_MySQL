@@ -34,6 +34,7 @@ https://github.com/Moniflor/Crear_bd_MySQL/blob/main/im%C3%A1genes/paso%201.png
 
 2. Nombramos nuestra base de datos
 
+https://github.com/Moniflor/Crear_bd_MySQL/blob/main/im%C3%A1genes/paso%202.png
 
 3. Le damos al botón 'Apply' de abajo a la derecha
 
