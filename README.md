@@ -28,9 +28,12 @@ Una vez instalado adecuado a nuestras necesidades podemos empezar a trabajar en 
 
 Se pueden crear las bases de datos de diferentes maneras, aquí nos vamos a centrar en crearla de manera visual.
 
-1. En la página principal hacemos clic en los tres cilindros con el símbolo + 
+1. En la página principal hacemos clic en los tres cilindros con el símbolo +
+
+https://github.com/Moniflor/Crear_bd_MySQL/blob/main/im%C3%A1genes/paso%201.png
 
 2. Nombramos nuestra base de datos
+
 
 3. Le damos al botón 'Apply' de abajo a la derecha
 
