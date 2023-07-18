@@ -38,6 +38,8 @@ https://github.com/Moniflor/Crear_bd_MySQL/blob/main/im%C3%A1genes/paso%202.png
 
 3. Le damos al botón 'Apply' de abajo a la derecha
 
+https://github.com/Moniflor/Crear_bd_MySQL/blob/main/im%C3%A1genes/paso%203.png
+
 4. Volvemos a darle a 'Apply'
 
 5. Le damos a 'Finish'.
